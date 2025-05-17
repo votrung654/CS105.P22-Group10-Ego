@@ -83,6 +83,7 @@ Dự án 3D Museum Web tạo ra trải nghiệm bảo tàng ảo tương tác s�
 ```
 
 ## 7. Hướng dẫn phát triển cho nhóm
+Ở dưới là tổng quan, chi tiết về phân công nhiệm vụ và hướng dẫn phát triển cho từng thành viên có thể xem trong [docs/phân công.md](./docs/phân%20công.md).
 
 ### Thành viên 1: Lead Developer & Three.js Expert
 - Tập trung vào Scene.js, CameraController.js, và optimization.js
